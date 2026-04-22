@@ -33,11 +33,3 @@ build/
 .vscode/
 
 .env
-
-# User exclusions
-src/main/java/com/praktikumDB/deploy/controller/
-src/main/java/com/praktikumDB/deploy/model/
-src/main/java/com/praktikumDB/deploy/repository/
-src/main/java/com/praktikumDB/deploy/service/
-src/main/resources/static/
-src/main/resources/application.properties
